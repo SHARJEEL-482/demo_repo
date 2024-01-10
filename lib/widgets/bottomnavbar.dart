@@ -16,7 +16,6 @@ class _bottomNavBarState extends State<bottomNavBar> {
     HomePage(),
     Profile(),
     Stats(),
-
   ];
 
   void _onItemTapped(int index) {
